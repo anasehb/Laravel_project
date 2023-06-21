@@ -15,7 +15,7 @@
                     <p>- <a href="https://www.tutorialspoint.com/laravel/">https://www.tutorialspoint.com/laravel/</a></p>
                     
                     <h3>My GitHub link : </h3>
-                    <p>- <a href="https://github.com/Saplistic/First-Fullstack-Lara-Project">https://github.com/Saplistic/First-Fullstack-Lara-Project</a></p>
+                    <p>- <a href="https://github.com/anasehb/Laravel_project">https://github.com/anasehb/Laravel_project</a></p>
                 </div>
                 
                

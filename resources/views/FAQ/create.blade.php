@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Add a new question & answer</div>
+                <div class="card-header">FAQ</div>
 
                 <div class="card-body">
                     <form method="POST" action="{{ route('FAQ.store', $category_id) }}">
@@ -40,11 +40,12 @@
                         </div>
 
                         <div class="row mb-0">
-                            <div class="col-md-8 offset-md-4">
-                                <button type="submit" class="btn btn-primary">
-                                    Create the FAQ
-                                </button>
-                            </div>
+                        <div class="col-md-8 offset-md-4">
+                            <button type="submit" class="btn btn-danger">
+                                Create the FAQ
+                            </button>
+                        </div>
+
                         </div>
                     </form>
                 </div>
